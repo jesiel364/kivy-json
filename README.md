@@ -1,5 +1,3 @@
-# JSON usando Kivy
-
 ## Declarando arquivo json
 
 ` store = JsonStore('hello.json') `
